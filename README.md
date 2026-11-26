@@ -1,3 +1,5 @@
+This is a fork of enescingoz/awesome-n8n-templates.
+
 # Awesome n8n Templates
 
 > A curated collection of 280+ n8n workflow template files for Gmail, Telegram, OpenAI, WhatsApp, Slack, Discord, WordPress, Google Sheets, and dozens of other platforms. Review, configure, and test each workflow before use. Continuously updated as of August 2026.
@@ -28,7 +30,7 @@
 
 <p align="center">
   <a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-    <img src="/img/n8n.png" alt="n8n automation platform" style="max-height: 300px;" />
+    <img src="img/n8n.png" alt="n8n automation platform" style="max-height: 300px;" />
   </a>
   <br />
   <small>* Referral link — this project receives a commission on eligible purchases.</small>
@@ -170,7 +172,7 @@ Explore 20 Telegram automation templates for n8n, including AI chatbots with Lan
 | Telegram to Spotify with OpenAI | Lets users request songs or playlists in Telegram and automatically create them in Spotify via OpenAI. | Marketing | [Link to Template](Telegram/Telegram%20to%20Spotify%20with%20OpenAI.json) |
 | Send a random recipe once a day to Telegram | Scheduled workflow that fetches a random recipe daily and posts it to a Telegram chat. | Marketing | [Link to Template](Telegram/Send%20a%20random%20recipe%20once%20a%20day%20to%20Telegram.json) |
 | Detect toxic language in Telegram messages | Monitors Telegram chats and flags messages containing toxic language using AI moderation. | Security | [Link to Template](Telegram/Detect%20toxic%20language%20in%20Telegram%20messages.json) |
-| Translate Telegram audio messages with AI (55 supported languages) | Receives voice messages, transcribes them, and sends back translations in over 50 languages. | Support | [Link to Template](Telegram/Translate%20Telegram%20audio%20messages%20with%20AI%20(55%20supported%20languages).json) |
+| Translate Telegram audio messages with AI (55 supported languages) | Receives voice messages, transcribes them, and sends back translations in over 50 languages. | Support | [Link to Template](Telegram/Translate%20Telegram%20audio%20messages%20with%20AI%20%2855%20supported%20languages%29.json) |
 | Bitcoin price alert to Telegram with CoinPaprika | Polls the keyless CoinPaprika API on a schedule and sends a Telegram alert when Bitcoin moves 5% or more in 24h. No API key or signup required; swap the coin id to track any asset. | Finance | [Link to Template](Telegram/Bitcoin%20price%20alert%20to%20Telegram%20with%20CoinPaprika.json) |
 | Empower Your AI Chatbot with Long-Term Memory and Dynamic Tool Routing | External workflow enhancing an AI chatbot with long-term memory and dynamic tool routing capabilities. | Support | [Link to Template](https://n8n.io/workflows/3025-empower-your-ai-chatbot-with-long-term-memory-and-dynamic-tool-routing/) |
 
@@ -218,7 +220,7 @@ This section features 6 WordPress automation templates for n8n. Automate blog po
 | Automate Blog Creation in Brand Voice with AI | This workflow automates the creation of blog posts, ensuring they adhere to a specific brand voice using AI. | Marketing/Content | [Link to Template](WordPress/Automate%20Blog%20Creation%20in%20Brand%20Voice%20with%20AI.json) |
 | Automate Content Generator for WordPress with DeepSeek R1 | This workflow automates content generation for WordPress using the DeepSeek R1 AI model, enabling rapid content creation. | Marketing/Content | [Link to Template](WordPress/Automate%20Content%20Generator%20for%20WordPress%20with%20DeepSeek%20R1.json) |
 | WordPress - AI Chatbot to enhance user experience - with Supabase and OpenAI | This workflow integrates an AI chatbot into WordPress using Supabase and OpenAI to enhance user experience by providing intelligent interactions. | Customer Support/Marketing | [Link to Template](WordPress/WordPress%20-%20AI%20Chatbot%20to%20enhance%20user%20experience%20-%20with%20Supabase%20and%20OpenAI.json) |
-| Write a WordPress post with AI (starting from a few keywords) | This workflow uses AI to write WordPress posts based on a few keywords, simplifying the content creation process. | Marketing/Content | [Link to Template](WordPress/Write%20a%20WordPress%20post%20with%20AI%20(starting%20from%20a%20few%20keywords).json) |
+| Write a WordPress post with AI (starting from a few keywords) | This workflow uses AI to write WordPress posts based on a few keywords, simplifying the content creation process. | Marketing/Content | [Link to Template](WordPress/Write%20a%20WordPress%20post%20with%20AI%20%28starting%20from%20a%20few%20keywords%29.json) |
 
 > 🚀 **Automate any workflow.** [Start an n8n Cloud trial →](https://n8n.partnerlinks.io/h1pwwf5m4toe)
 <br />
@@ -659,7 +661,7 @@ Contributions are welcome. If you have an n8n workflow template to share, please
 
 <p align="center">
   <a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-    <img src="/img/n8n.png" alt="n8n automation platform" style="max-height: 300px;" />
+    <img src="img/n8n.png" alt="n8n automation platform" style="max-height: 300px;" />
   </a>
   <br />
   <small>* Referral link — this project receives a commission on eligible purchases.</small>
